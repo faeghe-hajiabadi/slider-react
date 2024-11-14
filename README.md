@@ -16,7 +16,7 @@ To use this slider component in your project, you can either clone the repositor
 
 
 
--Clone the Repository
+Clone the Repository
 
 `git clone https://github.com/faeghe-hajiabadi/slider-react.git
 cd slider-react
